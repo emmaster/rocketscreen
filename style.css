@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.fullhd{
+	background: black;
+	width: 1920px;
+	height: 1080px;
+}
+
+.logo {
+	width: 1020px;
+	margin: auto;
+}
+
+.logo_img{
+	width:90%;
+}
